@@ -1,0 +1,9 @@
+pygame
+pyaudio
+numpy
+librosa
+opencv-python
+imageio-ffmpeg
+music21
+scipy
+sounddevice
