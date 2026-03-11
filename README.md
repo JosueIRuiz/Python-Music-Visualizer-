@@ -1,4 +1,4 @@
-# 🎵 Pro Python Audio Visualizer Suite
+# 🎵 Python Audio Visualizer Suite
 
 A robust, multi-tool audio visualization suite built in Python. This project features a central UI Hub that allows users to launch real-time microphone visualizers, or process pre-recorded audio files and automatically export them as high-quality `.mp4` videos.
 
@@ -35,3 +35,4 @@ This project requires Python 3. It relies on several external libraries like `py
 
 ```bash
 pip install -r requirements.txt
+
